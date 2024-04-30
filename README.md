@@ -52,9 +52,11 @@ Welcome to the Health Plus! This is a React-based website aimed at providing acc
 
 ![Health-Plus Image-9](https://github.com/JigarSolanki008/Health-Plus-Website/blob/master/Screenshots/Appointment_form.PNG?raw=true)
 
-### Email & Phone 
+### Email  
 
 ![Health-Plus Email](https://github.com/JigarSolanki008/Health-Plus-Website/blob/master/Screenshots/Email.jpg?raw=true)
+
+### Phone
 
 ![Health-Plus Phone](https://github.com/JigarSolanki008/Health-Plus-Website/blob/master/Screenshots/Phone.jpg?raw=truehttps://github.com/JigarSolanki008/Health-Plus-Website/blob/master/Screenshots/Phone.jpg?raw=true)
 
