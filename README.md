@@ -46,11 +46,17 @@ Welcome to the Health Plus! This is a React-based website aimed at providing acc
 
 ### Legal Documents Page
 
-![Health-Plus Image-8](https://i.postimg.cc/FKskXszb/Health-Plus-Image8.png)
+![Health-Plus Legal Documents Page](https://github.com/JigarSolanki008/Health-Plus-Website/blob/master/Screenshots/Legal_Privacy_Policy.PNG?raw=true)
 
 ### Appointment Form Page
 
 ![Health-Plus Image-9](https://github.com/JigarSolanki008/Health-Plus-Website/blob/master/Screenshots/Appointment_form.PNG?raw=true)
+
+### Email & Phone 
+
+![Health-Plus Email](https://github.com/JigarSolanki008/Health-Plus-Website/blob/master/Screenshots/Email.jpg?raw=true)
+
+![Health-Plus Phone](https://github.com/JigarSolanki008/Health-Plus-Website/blob/master/Screenshots/Phone.jpg?raw=truehttps://github.com/JigarSolanki008/Health-Plus-Website/blob/master/Screenshots/Phone.jpg?raw=true)
 
 ## Getting Started
 
